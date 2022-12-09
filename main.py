@@ -1,4 +1,6 @@
-%matplotlib inline
 import panda as pd
-import matplotib.pyplot as plt
-import numpy as np
+d1=pd.read_csv("imdb_titulos.csv")
+d1
+d2=pd.read_csv("imdb_elenco.csv")
+d2
+
